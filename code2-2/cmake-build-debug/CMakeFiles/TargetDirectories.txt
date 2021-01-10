@@ -1,0 +1,3 @@
+/Users/yaney/Documents/DS/code2-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yaney/Documents/DS/code2-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yaney/Documents/DS/code2-2/cmake-build-debug/CMakeFiles/code2_2.dir

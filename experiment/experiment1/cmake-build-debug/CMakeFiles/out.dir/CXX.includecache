@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yaney/Documents/DS/experiment/experiment1/main.cpp
+iostream
+-
+miniVector.h
+/Users/yaney/Documents/DS/experiment/experiment1/miniVector.h
+
+/Users/yaney/Documents/DS/experiment/experiment1/miniVector.cpp
+miniVector.h
+/Users/yaney/Documents/DS/experiment/experiment1/miniVector.h
+
+/Users/yaney/Documents/DS/experiment/experiment1/miniVector.h
+iostream
+-
+

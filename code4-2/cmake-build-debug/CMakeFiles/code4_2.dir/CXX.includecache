@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yaney/Documents/DS/code4-2/Time.h
+iostream
+-
+
+/Users/yaney/Documents/DS/code4-2/main.cpp
+iostream
+-
+Time.h
+/Users/yaney/Documents/DS/code4-2/Time.h
+

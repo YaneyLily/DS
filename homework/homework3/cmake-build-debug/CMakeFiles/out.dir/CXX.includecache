@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yaney/Documents/DS/homework/homework3/LinkedList.cpp
+iostream
+-
+cassert
+-
+LinkedList.h
+/Users/yaney/Documents/DS/homework/homework3/LinkedList.h
+
+/Users/yaney/Documents/DS/homework/homework3/LinkedList.h
+iostream
+-
+
+/Users/yaney/Documents/DS/homework/homework3/main.cpp
+iostream
+-
+LinkedList.h
+/Users/yaney/Documents/DS/homework/homework3/LinkedList.h
+
